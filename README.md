@@ -1,2 +1,2 @@
 # prueba1
-mi primer repositorio con gitgub
+mi primer repositorio con github
